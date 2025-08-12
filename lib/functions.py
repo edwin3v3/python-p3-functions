@@ -21,4 +21,6 @@ print(add(1,4))
 print(add(100,34))
 
 def halve(number):
-    pass
+    return int(number/2)
+
+print(halve(21.73))
