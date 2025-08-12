@@ -18,6 +18,7 @@ def add(num1, num2):
     return num1 + num2
 
 print(add(1,4))
+print(add(100,34))
 
 def halve(number):
     pass
