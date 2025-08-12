@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def greet_programmer():
-    pass
+    print("Hello, Programmer!")
 
 def greet(name):
     pass
