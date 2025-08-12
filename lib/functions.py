@@ -15,7 +15,9 @@ greet_with_default()
 greet_with_default("David")
 
 def add(num1, num2):
-    pass
+    return num1 + num2
+
+print(add(1,4))
 
 def halve(number):
     pass
